@@ -5,6 +5,19 @@ Proyecto Storytelling El señor de los gallos
 
 ("La vida del Mencho, el criminal más buscado del mundo")
 
+Renpy: https://oscarpadilla.eu/el-mecho/mencho/
+
+Charapter.ia: https://character.ai/chat/9DpztDRbax8QUsEDnelVVpSN7EIK2GOIr3uaXsJ-_gE
+
+Interactivo: https://app.lumi.education/run/F8tVMB
+
+Arcwave: https://arcweave.com/app/project/WNlKn8B0z1
+
+Teaser: https://www.figma.com/proto/6BSsyvQN4uUSfmA7jSj0qj/CRIAV-Demo?node-id=287-362&t=Fum2TxC8ljwUDsO9-1&scaling=contain&content-scaling=fixed&page-id=205%3A243&starting-point-node-id=287%3A362&show-proto-sidebar=1
+
+
+
+
 Autores:
 
 óscar padilla arcas
