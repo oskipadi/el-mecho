@@ -16,6 +16,7 @@ Arcwave: https://arcweave.com/app/project/WNlKn8B0z1
 Teaser: https://www.figma.com/proto/6BSsyvQN4uUSfmA7jSj0qj/CRIAV-Demo?node-id=287-362&t=Fum2TxC8ljwUDsO9-1&scaling=contain&content-scaling=fixed&page-id=205%3A243&starting-point-node-id=287%3A362&show-proto-sidebar=1
 
 
+<img width="835" height="407" alt="Captura de pantalla 2026-05-18 a las 12 44 57" src="https://github.com/user-attachments/assets/b78dc5d8-5dc0-4b3d-8c84-14008d6cd8b3" />
 
 
 Autores:
